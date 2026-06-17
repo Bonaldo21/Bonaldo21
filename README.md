@@ -5,7 +5,7 @@
   <a href="mailto:cauakingg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/cauabonaldo](https://www.linkedin.com/in/cau%C3%A3-bonaldo-94b1893a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/cau%C3%A3-bonaldo-94b1893a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
