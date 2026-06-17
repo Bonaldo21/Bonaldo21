@@ -50,7 +50,7 @@ Desenvolvedor Full Stack com experiência em aplicações web completas — do b
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [ERP Distribuidora](https://github.com/Bonaldo21/ERP-distribuidora) | Sistema de gestão completo com controle de pedidos, produtos e lucro mensal | Spring Boot · React · MySQL |
-| [Primordi](https://github.com/Bonaldo21/Primordi) | E-commerce de couro artesanal com pagamentos e cálculo de frete | Next.js · TypeScript · MercadoPago |
+| [Primor](https://github.com/Bonaldo21/Primordi) | E-commerce de couro artesanal com pagamentos e cálculo de frete | Next.js · TypeScript · MercadoPago |
 | [R&R Terraplanagem](https://github.com/Bonaldo21/rr-terraplanagem) | Site institucional com deploy em produção | Next.js · Tailwind CSS |
 
 ---
